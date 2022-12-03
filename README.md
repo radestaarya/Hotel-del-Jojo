@@ -1,4 +1,4 @@
-# Hotel-del-Jojo
+## *Hotel-del-Jojo*
 
 Selamat datang di Hotel del Jojo!
 
